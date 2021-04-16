@@ -1,5 +1,6 @@
 {
   "custom-object": {
-    "custom-line": "Address:"
-  }
+    "custom-line": ""
+  },
+  "custom-field": "Description"
 }
